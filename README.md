@@ -1,3 +1,3 @@
 Ray tracing 
 Rendering equation
-![Output](./output.png)
+![Output](./output.bmp)
